@@ -1,4 +1,4 @@
-module github.com/vphpersson/utils_testing/http/parsing/headers
+module github.com/vphpersson/utils_testing/dependent
 
 go 1.23.0
 

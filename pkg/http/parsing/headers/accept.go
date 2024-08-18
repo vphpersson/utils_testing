@@ -1,5 +1,0 @@
-package headers
-
-func ParseAcceptHeader() {
-
-}
