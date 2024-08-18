@@ -1,4 +1,4 @@
-package dependent
+package headers
 
 import (
 	"fmt"
