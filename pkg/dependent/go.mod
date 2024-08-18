@@ -1,4 +1,4 @@
-module github.com/vphpersson/utils_testing/dependent
+module github.com/vphpersson/utils_testing/pkg/dependent
 
 go 1.23.0
 
