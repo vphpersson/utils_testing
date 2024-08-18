@@ -1,4 +1,4 @@
-package utils_testing
+package errors
 
 type CauseErrorI interface {
 	Error() string
